@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML,CSS,Bacis JavaScript.**
 
-- 📫 How to reach me **ajeeshaji445566@gmail.com**
+- 📫 How to reach me **ajeeshk803@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
