@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajeesh.S</h1>
 <h3 align="center">A passionate FullStack developer.</h3>
 
-- 🌱 I’m currently learning **MERN FullStack Developer courses.**
+- 🌱 I’m currently learning **MERN FullStack Development**
 
 - 💬 Ask me about **HTML,CSS,Bacis JavaScript.**
 
