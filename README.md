@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN FullStack Development**
 
-- 💬 Ask me about **HTML,CSS,Bacis JavaScript.**
+- 💬 Ask me about **HTML,CSS,Bacis JavaScript,Bootstrap,React JS,NodeJS,MongoDB,SQL**
 
 - 📫 How to reach me **ajeeshk803@gmail.com**
 
